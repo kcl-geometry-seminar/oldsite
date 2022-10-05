@@ -1,0 +1,11 @@
+# Site settings
+title: KCL Geometry Seminar
+author:
+  name: mailing list
+  email: kcl-geometry-seminar@kcl.ac.uk
+github_username: MdeBorbon
+description: "Geometry Seminar at King's College London."
+# future: true
+
+# Build settings
+remote_theme: jekyll/minima
